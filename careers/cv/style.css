@@ -30,7 +30,7 @@ body {
   margin-bottom: 6px;
 }
 
-/* Nav */
+
 .site-nav {
   background-color: #003366;
   color: white;
@@ -68,12 +68,11 @@ body {
   margin-bottom: 20px;
 }
 
-/* About */
 .about {
   background-color: white;
 }
 
-/* Projects */
+
 .projects {
   background-color: #f0f5ff;
 }
@@ -99,7 +98,7 @@ body {
   margin-bottom: 8px;
 }
 
-/* Skills */
+
 .skills {
   background-color: white;
 }
@@ -121,7 +120,7 @@ body {
   left: 8px;
 }
 
-/* Contact */
+
 .contact {
   background-color: #f0f5ff;
 }
